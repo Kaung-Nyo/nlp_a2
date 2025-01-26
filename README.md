@@ -26,6 +26,10 @@ The web application:
 
 
 
+![nlp_a2_](https://github.com/user-attachments/assets/4bda0497-c083-4e15-ac9f-1e4e60bad6b2)
+
+
+
 
 
 
