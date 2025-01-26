@@ -1,6 +1,6 @@
 # nlp_a2
 
-This repository is the fullfilment for the A2 assigment in the coruse os Natural Language Processing at AIT.
+This repository is the fullfilment for the A2 assigment in the coruse of Natural Language Processing at AIT.
 
 A LSTM model is trained on the context of Game of Throne stories to generate next tokens.
 
